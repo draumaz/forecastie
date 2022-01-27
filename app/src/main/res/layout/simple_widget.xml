@@ -20,12 +20,12 @@
         android:id="@+id/widgetTemperature"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerVertical="true"
         android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:textColor="@color/text_light"
         android:textSize="20sp"
         android:textStyle="bold"
-        tools:text="0 °C"
-        android:textColor="@color/text_light"/>
+        tools:text="0 °C" />
 
     <TextView
         android:id="@+id/widgetDescription"
