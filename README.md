@@ -1,4 +1,11 @@
-# Forecastie
+# draumaz/forecastie
+
+## this is a fork of <a href="https://github.com/martykan/forecastie">martykan/forecastie</a> that does one thing:
+- make the Forecastie Simple widget size-adjustable on Lawnchair.
+
+## stock behavior:
+
+## fork behavior:
 
 [![Release](https://img.shields.io/github/release/martykan/forecastie.png)](https://github.com/martykan/forecastie/releases)
 [![Circle CI](https://circleci.com/gh/martykan/forecastie/tree/master.png)](https://circleci.com/gh/martykan/forecastie/tree/master)
