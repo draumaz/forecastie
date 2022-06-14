@@ -3,6 +3,11 @@
 ## this is a fork of <a href="https://github.com/martykan/forecastie">martykan/forecastie</a> that does one thing:
 - make the Forecastie Simple widget size-adjustable on Lawnchair.
 
+## how to use
+- clone sources, compile, push to device
+- select "Forecastie Time" widget (I know it's incorrectly named I'm sorry) and apply to home screen
+- enable transparent widget for added coolness
+
 ## stock behavior (non-expandable):
 ![Fork](https://github.com/draumaz/forecastie/blob/master/fork_res/sad.png?raw=true)
 
